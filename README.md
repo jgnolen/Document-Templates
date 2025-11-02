@@ -1,6 +1,6 @@
 # Document-Templates
 
-(project always progress)
+(project always in-progress)
 
 ## Objective
 - Create a library of document templates to help the user document as you go for various projects and share with others
