@@ -3,7 +3,7 @@
 (project always progress)
 
 ## Objective
-- Create a library of document templates to help the user document as you go for various projects
+- Create a library of document templates to help the user document as you go for various projects and share with others
 
 ### Skills Learned
 - Formatting MS365 (Office Suite) Applications
